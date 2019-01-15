@@ -1,4 +1,4 @@
-id,headcirumference,length,Birthweight,Gestation,smoker,motherage,mnocig,mheight,mppwt,fage,fedyrs,fnocig,fheight,lowbwt,mage35,LowBirthWeight
+id,headcircumference,length,Birthweight,Gestation,smoker,motherage,mnocig,mheight,mppwt,fage,fedyrs,fnocig,fheight,lowbwt,mage35,LowBirthWeight
 1313,12,17,5.80,33,0,24,0,58,99,26,16,0,66,1,0,Low
 431,12,19,4.20,33,1,20,7,63,109,20,10,35,71,1,0,Low
 808,13,19,6.40,34,0,26,0,65,140,25,12,25,69,0,0,Normal
